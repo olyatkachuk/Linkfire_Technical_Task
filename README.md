@@ -3,11 +3,11 @@
 To launch this application make sure you have installed npm, typescript as well as node.
 Enter the following commands into a terminal: 
 
-`tsc characterCounter.ts`
+`tsc characterCounter.ts` <br />
 `node characterCounter.js`
 
-Expected output:
-a4b1c1
-a1b1c1
-a4b4c2
+Expected output:<br />
+a4b1c1 <br />
+a1b1c1 <br />
+a4b4c2 <br />
 !2o2p2?2
